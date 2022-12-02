@@ -106,9 +106,9 @@ void ex3(){
 	
 system ("cls");
 	
-float sl ,nh = 0 ,ssl = 0,masl = 0,sl100 = 0,pcnt = 0; 
+float sl  ,ssl = 0,masl = 0,sl100 = 0,pcnt = 0; 
 
-int nf,tf = 0, mdf = 0;  
+int nh = 0, nf,tf = 0, mdf = 0;  
 
 do
 
